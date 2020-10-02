@@ -17,7 +17,7 @@ https://referral-web-app.azurewebsites.net/docs
     ```
 2. Create virtual env and activate
     ```bash
-    $ cd fastapi-jwt-orm
+    $ cd fastapi-jwt
     $ python -m venv .venv
     $ .venv\Scripts\activate
     ```
