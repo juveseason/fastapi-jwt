@@ -1,3 +1,5 @@
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/juveseason/fastapi-jwt/Python%20application/main)
+
 # Introduction
 FastAPI + JWT + SQLAlchemy + SQLite(or MS SQL Server) demo.
 The code follows the official document of [FastAPI OAuth2 JWT](https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/).
