@@ -1,4 +1,7 @@
 ![pytest](https://github.com/juveseason/fastapi-jwt/workflows/pytest/badge.svg?branch=main)
+<a href="https://github.com/juveseason/fastapi-jwt/actions?query=workflow%3Apytest" target="_blank">
+    <img src="https://github.com/juveseason/fastapi-jwt/workflows/pytest/badge.svg" alt="Test">
+</a>
 
 # Introduction
 FastAPI + JWT + SQLAlchemy + SQLite(or MS SQL Server) demo.
