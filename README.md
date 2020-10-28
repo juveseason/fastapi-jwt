@@ -1,4 +1,4 @@
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/juveseason/fastapi-jwt/Python%20application/main)
+[![Build Status - GitHub](https://github.com/4oh4/pytesting/workflows/pytesting/badge.svg)](https://github.com/juveseason/fastapi-jwt/actions?query=workflow%3Python%20application)
 
 # Introduction
 FastAPI + JWT + SQLAlchemy + SQLite(or MS SQL Server) demo.
