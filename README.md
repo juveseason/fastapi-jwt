@@ -9,9 +9,9 @@ The code follows the official document of [FastAPI OAuth2 JWT](https://fastapi.t
 
 # Getting Started
 1. View the automatically generated OpenAPI docs deployed on Azure: 
-https://referral-web-app.azurewebsites.net/docs
+https://<APP_NAME>.azurewebsites.net/docs
 2. If running the app for the first time, the *users* table in the database is empty. To be able to login and use the API, you can send a **POST** request to endpoint:
- https://referral-web-app.azurewebsites.net/auth/users/init with an empty body. This will create the default superuser defined in *./configurations.py*.
+ https://<APP_NAME>.azurewebsites.net/auth/users/init with an empty body. This will create the default superuser defined in *./configurations.py*.
 
 
 # Run Locally
